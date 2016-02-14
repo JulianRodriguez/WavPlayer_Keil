@@ -1,0 +1,198 @@
+Dependencies for Project 'reproductor_grabador_wav', Target 'Target 1': (DO NOT MODIFY !)
+F (.\bloque.c)(0x56A0A96F)(-c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork -I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE"-I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE\Device\LPC4088FET208"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0-beta\Board-D_RTE_ -DCORE_M4-o .\objects\bloque.o --omf_browse .\objects\bloque.crf --depend .\objects\bloque.d)
+I (bloque.h)(0x56A0A9AA)
+I (error.h)(0x547098FC)
+I (glcd.h)(0x554E28CE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419FFEA)
+I (sdram.h)(0x547086EC)
+F (.\menu.c)(0x56BFDB0D)(-c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork -I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE"-I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE\Device\LPC4088FET208"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0-beta\Board-D_RTE_ -DCORE_M4-o .\objects\menu.o --omf_browse .\objects\menu.crf --depend .\objects\menu.d)
+I (menu.h)(0x56B8E40D)
+I (bloque.h)(0x56A0A9AA)
+I (error.h)(0x547098FC)
+I (glcd.h)(0x554E28CE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419FFEA)
+I (sdram.h)(0x547086EC)
+I (timer1.h)(0x547098D6)
+F (.\timer1.c)(0x56AB91AB)(-c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork -I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE"-I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE\Device\LPC4088FET208"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0-beta\Board-D_RTE_ -DCORE_M4-o .\objects\timer1.o --omf_browse .\objects\timer1.crf --depend .\objects\timer1.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\LPC407x_8x_177x_8x.h)(0x539FF742)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5626197C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419FFEA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\system_LPC407x_8x_177x_8x.h)(0x4FF169DA)
+I (timer1.h)(0x547098D6)
+I (joystick.h)(0x565D683B)
+F (.\glcd.c)(0x554E2742)(-c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork -I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE"-I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE\Device\LPC4088FET208"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0-beta\Board-D_RTE_ -DCORE_M4-o .\objects\glcd.o --omf_browse .\objects\glcd.crf --depend .\objects\glcd.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\LPC407x_8x_177x_8x.h)(0x539FF742)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5626197C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419FFEA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\system_LPC407x_8x_177x_8x.h)(0x4FF169DA)
+I (glcd.h)(0x554E28CE)
+I (sdram.h)(0x547086EC)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5419FFEC)
+F (.\joystick.c)(0x565D6E1E)(-c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork -I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE"-I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE\Device\LPC4088FET208"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0-beta\Board-D_RTE_ -DCORE_M4-o .\objects\joystick.o --omf_browse .\objects\joystick.crf --depend .\objects\joystick.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\LPC407x_8x_177x_8x.h)(0x539FF742)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5626197C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419FFEA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\system_LPC407x_8x_177x_8x.h)(0x4FF169DA)
+I (joystick.h)(0x565D683B)
+F (.\diskio.c)(0x556DFAA0)(-c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork -I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE"-I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE\Device\LPC4088FET208"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0-beta\Board-D_RTE_ -DCORE_M4-o .\objects\diskio.o --omf_browse .\objects\diskio.crf --depend .\objects\diskio.d)
+I (diskio.h)(0x556DFAA0)
+I (integer.h)(0x556DFAA0)
+I (sd_lpc4088_mci.h)(0x556DF708)
+F (.\ff.c)(0x556DFAA0)(-c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork -I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE"-I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE\Device\LPC4088FET208"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0-beta\Board-D_RTE_ -DCORE_M4-o .\objects\ff.o --omf_browse .\objects\ff.crf --depend .\objects\ff.d)
+I (ff.h)(0x556DFAA0)
+I (integer.h)(0x556DFAA0)
+I (ffconf.h)(0x556DFAA0)
+I (diskio.h)(0x556DFAA0)
+I (C:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x5419FFEC)
+F (.\rtc.c)(0x556DF6D6)(-c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork -I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE"-I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE\Device\LPC4088FET208"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0-beta\Board-D_RTE_ -DCORE_M4-o .\objects\rtc.o --omf_browse .\objects\rtc.crf --depend .\objects\rtc.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\LPC407x_8x_177x_8x.h)(0x539FF742)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5626197C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419FFEA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\system_LPC407x_8x_177x_8x.h)(0x4FF169DA)
+I (rtc.h)(0x556DF6D6)
+F (.\sd_lpc4088_mci.c)(0x556DF708)(-c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork -I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE"-I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE\Device\LPC4088FET208"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0-beta\Board-D_RTE_ -DCORE_M4-o .\objects\sd_lpc4088_mci.o --omf_browse .\objects\sd_lpc4088_mci.crf --depend .\objects\sd_lpc4088_mci.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\LPC407x_8x_177x_8x.h)(0x539FF742)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5626197C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419FFEA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\system_LPC407x_8x_177x_8x.h)(0x4FF169DA)
+I (sd_lpc4088_mci.h)(0x556DF708)
+I (diskio.h)(0x556DFAA0)
+I (integer.h)(0x556DFAA0)
+I (rtc.h)(0x556DF6D6)
+F (.\sdram.c)(0x563277DA)(-c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork -I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE"-I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE\Device\LPC4088FET208"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0-beta\Board-D_RTE_ -DCORE_M4-o .\objects\sdram.o --omf_browse .\objects\sdram.crf --depend .\objects\sdram.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\LPC407x_8x_177x_8x.h)(0x539FF742)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5626197C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419FFEA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\system_LPC407x_8x_177x_8x.h)(0x4FF169DA)
+I (sdram.h)(0x547086EC)
+F (.\soporte_nombres_largos.c)(0x556DF6D6)(-c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork -I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE"-I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE\Device\LPC4088FET208"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0-beta\Board-D_RTE_ -DCORE_M4-o .\objects\soporte_nombres_largos.o --omf_browse .\objects\soporte_nombres_largos.crf --depend .\objects\soporte_nombres_largos.d)
+I (ff.h)(0x556DFAA0)
+I (integer.h)(0x556DFAA0)
+I (ffconf.h)(0x556DFAA0)
+F (.\main.c)(0x56BFDFAF)(-c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork -I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE"-I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE\Device\LPC4088FET208"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0-beta\Board-D_RTE_ -DCORE_M4-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\LPC407x_8x_177x_8x.h)(0x539FF742)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5626197C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419FFEA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\system_LPC407x_8x_177x_8x.h)(0x4FF169DA)
+I (ff.h)(0x556DFAA0)
+I (integer.h)(0x556DFAA0)
+I (ffconf.h)(0x556DFAA0)
+I (menu.h)(0x56B8E40D)
+I (glcd.h)(0x554E28CE)
+I (sdram.h)(0x547086EC)
+I (timer1.h)(0x547098D6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5419FFEC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5419FFEC)
+I (C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0-beta\Board\Board_Audio.h)(0x5534A4F8)
+F (.\font8x16.c)(0x533B2DDC)(-c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork -I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE"-I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE\Device\LPC4088FET208"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0-beta\Board-D_RTE_ -DCORE_M4-o .\objects\font8x16.o --omf_browse .\objects\font8x16.crf --depend .\objects\font8x16.d)
+F (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Boards\Embedded Artists\LPC4088-32 Developers Kit\Common\Audio_UDA1380.c)(0x5677D530)(-c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork -I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE"-I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE\Device\LPC4088FET208"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0-beta\Board-D_RTE_ -DCORE_M4-o .\objects\audio_uda1380.o --omf_browse .\objects\audio_uda1380.crf --depend .\objects\audio_uda1380.d)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include\Driver_I2C.h)(0x53858D4E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include\Driver_Common.h)(0x53061E88)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5419FFEA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419FFEA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5419FFEC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include\Driver_SAI.h)(0x5492893A)
+I (C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0-beta\Board\Board_Audio.h)(0x5534A4F8)
+F (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\LIB\ARM\RTX_CM4.lib)(0x5624BF76)()
+F (RTE\CMSIS\RTX_Conf_CM.c)(0x556D9354)(-c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork -I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE"-I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE\Device\LPC4088FET208"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0-beta\Board-D_RTE_ -DCORE_M4-o .\objects\rtx_conf_cm.o --omf_browse .\objects\rtx_conf_cm.crf --depend .\objects\rtx_conf_cm.d)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x5627AA4E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419FFEA)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5419FFEA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC\RTX_CM_lib.h)(0x556D9354)
+F (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver\I2C_LPC40xx.c)(0x5677D530)(-c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork -I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE"-I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE\Device\LPC4088FET208"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0-beta\Board-D_RTE_ -DCORE_M4-o .\objects\i2c_lpc40xx.o --omf_browse .\objects\i2c_lpc40xx.crf --depend .\objects\i2c_lpc40xx.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver\I2C_LPC40xx.h)(0x5679388C)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5419FFEC)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\LPC407x_8x_177x_8x.h)(0x539FF742)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5626197C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419FFEA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\system_LPC407x_8x_177x_8x.h)(0x4FF169DA)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver\PIN_LPC40xx.h)(0x5677D530)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5419FFEC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include\Driver_I2C.h)(0x53858D4E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include\Driver_Common.h)(0x53061E88)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5419FFEA)
+I (C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE\RTE_Components.h)(0x56B8CAE6)
+I (C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE\Device\LPC4088FET208\RTE_Device.h)(0x56B8D433)
+F (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver\I2S_LPC40xx.c)(0x568E4358)(-c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork -I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE"-I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE\Device\LPC4088FET208"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0-beta\Board-D_RTE_ -DCORE_M4-o .\objects\i2s_lpc40xx.o --omf_browse .\objects\i2s_lpc40xx.crf --depend .\objects\i2s_lpc40xx.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver\I2S_LPC40xx.h)(0x568E4358)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\LPC407x_8x_177x_8x.h)(0x539FF742)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5626197C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419FFEA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\system_LPC407x_8x_177x_8x.h)(0x4FF169DA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include\Driver_SAI.h)(0x5492893A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include\Driver_Common.h)(0x53061E88)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5419FFEA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5419FFEC)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver\PIN_LPC40xx.h)(0x5677D530)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver\GPDMA_LPC40xx.h)(0x567A640C)
+I (C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE\Device\LPC4088FET208\RTE_Device.h)(0x56B8D433)
+I (C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE\RTE_Components.h)(0x56B8CAE6)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x5419FFEA)
+F (RTE\Device\LPC4088FET208\startup_LPC407x_8x_177x_8x.s)(0x4FB9F20E)(--cpu Cortex-M4.fp --pd "__RTX SETA 1" -g --apcs=interwork -I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE"-I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE\Device\LPC4088FET208"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0-beta\Board--pd "_RTE_ SETA 1" --pd "CORE_M4 SETA 1"--list .\listings\startup_lpc407x_8x_177x_8x.lst --xref -o .\objects\startup_lpc407x_8x_177x_8x.o --depend .\objects\startup_lpc407x_8x_177x_8x.d)
+F (RTE\Device\LPC4088FET208\system_LPC407x_8x_177x_8x.c)(0x567955BE)(-c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork -I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE"-I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE\Device\LPC4088FET208"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0-beta\Board-D_RTE_ -DCORE_M4-o .\objects\system_lpc407x_8x_177x_8x.o --omf_browse .\objects\system_lpc407x_8x_177x_8x.crf --depend .\objects\system_lpc407x_8x_177x_8x.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419FFEA)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\LPC407x_8x_177x_8x.h)(0x539FF742)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5626197C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\system_LPC407x_8x_177x_8x.h)(0x4FF169DA)
+F (RTE\Device\LPC4088FET208\RTE_Device.h)(0x56B8D433)()
+F (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver\GPDMA_LPC40xx.c)(0x568E62D6)(-c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork -I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE"-I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE\Device\LPC4088FET208"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0-beta\Board-D_RTE_ -DCORE_M4-o .\objects\gpdma_lpc40xx.o --omf_browse .\objects\gpdma_lpc40xx.crf --depend .\objects\gpdma_lpc40xx.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver\GPDMA_LPC40xx.h)(0x567A640C)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\LPC407x_8x_177x_8x.h)(0x539FF742)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5626197C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419FFEA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\system_LPC407x_8x_177x_8x.h)(0x4FF169DA)
+F (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver\PIN_LPC40xx.c)(0x567A640C)(-c --cpu Cortex-M4.fp -D__RTX -g -O0 --apcs=interwork -I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE"-I "C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE\Device\LPC4088FET208"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0-beta\Board-D_RTE_ -DCORE_M4-o .\objects\pin_lpc40xx.o --omf_browse .\objects\pin_lpc40xx.crf --depend .\objects\pin_lpc40xx.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\LPC407x_8x_177x_8x.h)(0x539FF742)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x5626197C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419FFEA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x562605C0)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\system_LPC407x_8x_177x_8x.h)(0x4FF169DA)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver\PIN_LPC40xx.h)(0x5677D530)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5419FFEC)

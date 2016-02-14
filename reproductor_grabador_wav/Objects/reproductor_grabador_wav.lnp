@@ -1,0 +1,26 @@
+--cpu Cortex-M4.fp
+".\objects\bloque.o"
+".\objects\menu.o"
+".\objects\timer1.o"
+".\objects\glcd.o"
+".\objects\joystick.o"
+".\objects\diskio.o"
+".\objects\ff.o"
+".\objects\rtc.o"
+".\objects\sd_lpc4088_mci.o"
+".\objects\sdram.o"
+".\objects\soporte_nombres_largos.o"
+".\objects\main.o"
+".\objects\font8x16.o"
+".\objects\audio_uda1380.o"
+"C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\LIB\ARM\RTX_CM4.lib"
+".\objects\rtx_conf_cm.o"
+".\objects\i2c_lpc40xx.o"
+".\objects\i2s_lpc40xx.o"
+".\objects\startup_lpc407x_8x_177x_8x.o"
+".\objects\system_lpc407x_8x_177x_8x.o"
+".\objects\gpdma_lpc40xx.o"
+".\objects\pin_lpc40xx.o"
+--ro-base 0x00000000 --entry 0x00000000 --rw-base 0x10000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\reproductor_grabador_wav.map" -o .\Objects\reproductor_grabador_wav.axf

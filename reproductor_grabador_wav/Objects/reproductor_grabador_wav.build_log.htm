@@ -1,0 +1,158 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: µVision V5.12.0.0
+Copyright (C) 2014 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: Emilio Figueras UCA Flex license: MDK-ARM Professional (Eval) (mdk_pro_eval) Operation stops: 15 Feb 2016
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Professional (Eval)  Version: 5.12.0.0
+Toolchain Path:  C:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.05 (build 41)
+Assembler:       Armasm.exe V5.05 (build 41)
+Linker/Locator:  ArmLink.exe V5.05 (build 41)
+Library Manager: ArmAr.exe V5.05 (build 41)
+Hex Converter:   FromElf.exe V5.05 (build 41)
+CPU DLL:         SARMCM3.DLL V5.12.0.0
+Dialog DLL:      DCM.DLL V1.13.0.0
+    Target DLL: Segger\JL2CM3.dll
+Dialog DLL:      TCM.DLL V1.14.2.0
+ 
+<h2>Project:</h2>
+C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\reproductor_grabador_wav.uvprojx
+Project File Date:  02/14/2016
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+compiling bloque.c...
+compiling menu.c...
+compiling timer1.c...
+compiling glcd.c...
+compiling joystick.c...
+compiling diskio.c...
+diskio.c(70): warning:  #188-D: enumerated type mixed with another type
+      res = result;
+diskio.c(92): warning:  #188-D: enumerated type mixed with another type
+      res = result;
+diskio.c(115): warning:  #188-D: enumerated type mixed with another type
+      res = result;
+diskio.c: 3 warnings, 0 errors
+compiling ff.c...
+ff.c(1713): warning:  #111-D: statement is unreachable
+                        w = (w << 8) + b;                       /* Create a DBC */
+ff.c: 1 warning, 0 errors
+compiling rtc.c...
+compiling sd_lpc4088_mci.c...
+compiling sdram.c...
+compiling soporte_nombres_largos.c...
+compiling main.c...
+compiling font8x16.c...
+compiling Audio_UDA1380.c...
+compiling RTX_Conf_CM.c...
+compiling I2C_LPC40xx.c...
+compiling I2S_LPC40xx.c...
+assembling startup_LPC407x_8x_177x_8x.s...
+compiling system_LPC407x_8x_177x_8x.c...
+compiling GPDMA_LPC40xx.c...
+compiling PIN_LPC40xx.c...
+linking...
+Program Size: Code=43578 RO-data=3966 RW-data=392 ZI-data=56888  
+".\Objects\reproductor_grabador_wav.axf" - 0 Error(s), 4 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.4.5.0.pack
+                ::CMSIS:RTOS:1.0 (API)
+                CMSIS (Cortex Microcontroller Software Interface Standard)
+   * Component: RTOS Version: 1.0
+   * Component: SAI Version: 1.00
+   * Component: I2C Version: 2.02
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.LPC4000_DFP.2.0.0.pack
+                Keil::Device:GPDMA:1.0
+                NXP LPC4000 Series Device Support
+   * Component: GPDMA Version: 1.0
+   * Component: Audio Version: 1.0.0
+   * Component: PIN Version: 1.0
+   * Component: I2C Version: 1.0
+   * Component: Keil RTX Version: 4.80.0
+   * Component: Startup Version: 1.0.1
+   * Component: SAI Version: 1.0
+   * Component: CORE Version: 4.3.0
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.MDK-Middleware.7.0.0-beta.pack
+                ::Board Support:Audio:1.01 (API)
+                Keil MDK-ARM Professional Middleware for ARM Cortex-M based devices
+   * Component: Audio Version: 1.01
+
+<h2>Collection of Component include folders:</h2>
+  C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE
+  C:\Users\Emilio\Desktop\DBMFinal Limpiado\reproductor_grabador_wav\RTE\Device\LPC4088FET208
+  C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Driver\Include
+  C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include
+  C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC
+  C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0
+  C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include
+  C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\RTE_Driver
+  C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0-beta\Board
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ::CMSIS:RTOS:1.0 (API)
+
+   * Component: ::CMSIS Driver:SAI:1.00 (API)
+      Include file:  CMSIS\Driver\Include\Driver_SAI.h
+
+   * Component: ::CMSIS Driver:I2C:2.02 (API)
+      Include file:  CMSIS\Driver\Include\Driver_I2C.h
+
+   * Component: Keil::Device:GPDMA:1.0
+      Include file:  RTE_Driver\GPDMA_LPC40xx.h
+      Source file:   RTE_Driver\GPDMA_LPC40xx.c
+
+   * Component: Keil.LPC4088-32 Developers Kit::Board Support:Audio:1.0.0
+      Source file:   Boards\Embedded Artists\LPC4088-32 Developers Kit\Common\Audio_UDA1380.c
+
+   * Component: Keil::Device:PIN:1.0
+      Include file:  RTE_Driver\PIN_LPC40xx.h
+      Source file:   RTE_Driver\PIN_LPC40xx.c
+
+   * Component: Keil::CMSIS Driver:I2C:1.0
+      Source file:   RTE_Driver\I2C_LPC40xx.c
+
+   * Component: ARM::CMSIS:RTOS:Keil RTX:4.80.0
+      Include file:  CMSIS\RTOS\RTX\INC\cmsis_os.h
+      Source file:   CMSIS\RTOS\RTX\UserCodeTemplates\MemPool.c
+      Source file:   CMSIS\RTOS\RTX\UserCodeTemplates\Semaphore.c
+      Source file:   CMSIS\RTOS\RTX\UserCodeTemplates\Timer.c
+      Source file:   CMSIS\RTOS\RTX\UserCodeTemplates\MailQueue.c
+      Source file:   CMSIS\RTOS\RTX\UserCodeTemplates\Thread.c
+      Source file:   CMSIS\RTOS\RTX\SRC\ARM\SVC_Table.s
+      Source file:   CMSIS\RTOS\RTX\UserCodeTemplates\MsgQueue.c
+      Source file:   CMSIS\RTOS\RTX\UserCodeTemplates\main.c
+      Library file:  CMSIS\RTOS\RTX\LIB\ARM\RTX_CM4.lib
+      Source file:   CMSIS\RTOS\RTX\UserCodeTemplates\Mutex.c
+      Include file:  CMSIS\RTOS\RTX\UserCodeTemplates\osObjects.h
+      Source file:   CMSIS\RTOS\RTX\Templates\RTX_Conf_CM.c
+
+   * Component: Keil::Device:Startup:1.0.1
+      Source file:   Device\Source\ARM\startup_LPC407x_8x_177x_8x.s
+      Include file:  RTE_Driver\Config\RTE_Device.h
+      Include file:  Device\Include\LPC407x_8x_177x_8x.h
+      Source file:   Device\Source\system_LPC407x_8x_177x_8x.c
+
+   * Component: Keil::CMSIS Driver:SAI:1.0
+      Source file:   RTE_Driver\I2S_LPC40xx.c
+
+   * Component: ARM::CMSIS:CORE:4.3.0
+
+   * Component: ::Board Support:Audio:1.01 (API)
+      Include file:  Board\Board_Audio.h
+</pre>
+</body>
+</html>
